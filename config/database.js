@@ -1,8 +1,8 @@
 module.exports = {
     'connection': {
-        'host': 'localhost',
-        'user': 'root',
-        'password': '',
-        'database': 'bismillah_autos'
+        'host': 'us-cdbr-east-02.cleardb.com',
+        'user': 'b264a314b1ee4f',
+        'password': '992b32f1',
+        'database': 'heroku_bf570e4dbf35452'
     }
 }
