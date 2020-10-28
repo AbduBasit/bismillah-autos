@@ -4,7 +4,7 @@
   "description": "bismillah-autos",
   "main": "app.js",
   "author": {
-    "name": "" },
+    "name": "Abdul Basit" },
   "scripts": {
     "start":"node app.js"
   },
