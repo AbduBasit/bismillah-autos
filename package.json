@@ -5,6 +5,9 @@
   "main": "app.js",
   "author": {
     "name": "Abdul Basit" },
+  "scripts": {
+    "start":"node app.js"
+  },
 
   
   "dependencies": {
